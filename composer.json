@@ -1,5 +1,5 @@
 {
-    "name": "jarir-ahmed/yii-cors-bypass",
+    "name": "jarir-ahmed/yii-cors-bypass2",
     "description": "A package to replace the index.php file in a Yii application to bypass CORS policy for React and Vue.js",
     "type": "library",
     "license": "MIT",
